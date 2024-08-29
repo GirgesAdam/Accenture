@@ -13,6 +13,7 @@ Data Cleaning:
  3-Standardized and adjusted the Category column to ensure consistent categorization across the dataset.
 
 Creating Calculated Columns:
+
  1-Reaction Score: Introduced a Reaction Score column in the Reactions sheet to quantify user engagement.
  
  2-Content Score: Added a Content Score column in the Content sheet to evaluate the performance and impact of the content.
